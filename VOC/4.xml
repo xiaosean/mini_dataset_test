@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>4.jpg</filename>
+	<path>/home/viplab/Desktop/mini_dataset_test/img/4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>28</ymin>
+			<xmax>363</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
